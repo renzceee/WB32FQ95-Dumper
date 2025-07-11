@@ -22,4 +22,4 @@ This tool:
 
 ### Run the script:
 ```bash
-python dumper.py <firmware_name>
+python dumper.py <firmware_output_name>
